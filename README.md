@@ -69,12 +69,13 @@ PhpStorm, WebStorm, WebStorm, Atom, VS Code, Sublime Text, Bracket.<br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+<!--
 ## 📊 My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bricedev330&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bricedev330&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=mantasdirska&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=mantasdirska&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=mantasdirska&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
