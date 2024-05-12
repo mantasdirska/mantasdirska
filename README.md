@@ -23,6 +23,7 @@ Also, I'm the right person who keep well time-line and dead-line and work well u
 ✔ state management: Redux, React Query, Recoil, Vuex, Mobx<br/>
 ✔ Vue.js, Nuxt.js , Vuetify<br/>
 ✔ React.js, Next, React Bootstrap, MUI,<br/>
+✔ Svelte, Astro<br/>
 ✔ 3D : Three.js ,WebGL, D3.js<br/>
 ✔ 2D: CreateJs,GameMaker(GML),P5.js,<br/>
 ✅ Back-end:<br/>
